@@ -9,12 +9,3 @@ Thumbs.db
 .vscode
 .python-version
 node_modules
-*.log
-/tags
-/atom-shell/
-/out/
-docs/output
-docs/includes
-spec/fixtures/evil-files/
-out/
-/electron/
